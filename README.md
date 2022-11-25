@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @IvanSolaDelgado
 - 👀 I’m interested in Software Development, Machine Learning, Cybersecurity and everything that encompasses computing.
 - 🌱 I’m currently learning Software Engineering at the Public University of Navarra
-- 💞️ I’m looking to collaborate on Software Developer projects
+- 💞️ I’m looking to collaborate on Software Development projects
 - 📫 How to reach me: linkedin.com/in/ivan-sola-delgado-058259250
 
 <!---
