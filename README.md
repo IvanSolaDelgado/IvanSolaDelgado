@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Development, SecDevOps and everything that encompasses computing.
 - 🌱 I’m currently learning Software Engineering at the Public University of Navarra
 - 💞️ I’m looking to collaborate on Software Development projects
-- 📫 How to reach me: linkedin.com/in/ivan-sola-delgado-058259250
+- 📫 How to reach me: [Linkedin](linkedin.com/in/ivan-sola-delgado-058259250)
 
 <!---
 IvanSolaDelgado/IvanSolaDelgado is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
